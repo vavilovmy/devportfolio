@@ -1,4 +1,4 @@
-<h1>Проект задеплоен <a href="https://devportfolio-tau-weld.vercel.app/" target="_blank">По этому адресу</a></h1>
+<h1>Проект задеплоен <a href="https://vavilovmy.ru" target="_blank">По этому адресу</a></h1>
 <h2>Что здесь было реализовано:</h2>
 <ul>
   <li>Проект был сделан на базе Next.js, для создания стилей был использован TailWind последней версии</li>
